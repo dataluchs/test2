@@ -1,0 +1,282 @@
+[
+    {
+        "field1": "2021-01-18",
+        "field2": "Wiener Sojaschnitzerl mit Petersilkartoffel und Sauce Cumberland (A,F,O)",
+        "field3": "Tagesmenü",
+        "field4": "vegetarisch,laktosefrei,vegan",
+        "field5": "6,80 €"
+    },
+    {
+        "field1": "2021-01-18",
+        "field2": "Cremespinat mit Spiegelei und Erdäpfelschmarrn (A,C,G)",
+        "field3": "Tagesmenü",
+        "field4": "vegetarisch",
+        "field5": "6,50 €"
+    },
+    {
+        "field1": "2021-01-18",
+        "field2": "'Pasta Carbonara' mit Tagliatelle in Schinkenrahmsauce [Parmesan extra als W3] (A,C,G)",
+        "field3": "Tagesmenü",
+        "field4": "",
+        "field5": "4,90 €"
+    },
+    {
+        "field1": "2021-01-18",
+        "field2": "Big Italy | Basilikum, Banane, Minze, Erdbeere, Apfel [500ml]",
+        "field3": "Säfte & Smoothies",
+        "field4": "vegetarisch,laktosefrei,glutenfrei,vegan",
+        "field5": "4,10 €"
+    },
+    {
+        "field1": "2021-01-18",
+        "field2": "Schokoladen-Kirsch Trifle (A,C,G,O,H)",
+        "field3": "Tagesmenü",
+        "field4": "vegetarisch",
+        "field5": "2,50 €"
+    },
+    {
+        "field1": "2021-01-18",
+        "field2": "Wirsing-Erdnusssuppe mit gerösteten Erdnüssen (E,H)",
+        "field3": "Tagesmenü",
+        "field4": "vegetarisch,laktosefrei,glutenfrei,vegan",
+        "field5": "2,50 €"
+    },
+    {
+        "field1": "2021-01-18",
+        "field2": "Chili sin Carne mit Bohnen und Mais dazu eine backfrische Kaisersemmel (A,F)",
+        "field3": "Wochengerichte, Menüs & Low Carb",
+        "field4": "vegetarisch,laktosefrei,vegan",
+        "field5": "6,20 €"
+    },
+    {
+        "field1": "2021-01-18",
+        "field2": "Bauernschmaus vom Schopfbraten mit Krustenbraten und Frankfurter dazu Speckkraut und Böhmische Knödel (A,G,O)",
+        "field3": "Wochengerichte, Menüs & Low Carb",
+        "field4": "",
+        "field5": "6,70 €"
+    },
+    {
+        "field1": "2021-01-19",
+        "field2": "2G Ayurveda | Karotten Kokossett Suppe mit Kichererbsen (L,M,N,H) & Gemüse-Hirse Laibchen auf Rotkraut-Kürbis-Wacholderbeer Ragout und Beluga Linsen (F,L,M,N,H)",
+        "field3": "Tagesmenü",
+        "field4": "vegetarisch,laktosefrei,glutenfrei,vegan,malanders",
+        "field5": "10,00 €"
+    },
+    {
+        "field1": "2021-01-19",
+        "field2": "Eingemachte Linsen mit Wurzelgemüse und hausgemachten Semmelknödel (A,C,G,L)",
+        "field3": "Tagesmenü",
+        "field4": "vegetarisch",
+        "field5": "4,90 €"
+    },
+    {
+        "field1": "2021-01-19",
+        "field2": "Gegrillte Hühnerkeule im Rosmarin-Bratensaftl mit Erbsenreis und buntem Karottengemüse",
+        "field3": "Tagesmenü",
+        "field4": "laktosefrei,glutenfrei",
+        "field5": "7,50 €"
+    },
+    {
+        "field1": "2021-01-19",
+        "field2": "Big Italy | Basilikum, Banane, Minze, Erdbeere, Apfel [500ml]",
+        "field3": "Säfte & Smoothies",
+        "field4": "vegetarisch,laktosefrei,glutenfrei,vegan",
+        "field5": "4,10 €"
+    },
+    {
+        "field1": "2021-01-19",
+        "field2": "Flaumiger Marillenkrapfen",
+        "field3": "Tagesmenü",
+        "field4": "vegetarisch",
+        "field5": "2,50 €"
+    },
+    {
+        "field1": "2021-01-19",
+        "field2": "Asiatische Glasnudelsuppe mit Sojasprossen (F)",
+        "field3": "Tagesmenü",
+        "field4": "vegetarisch,laktosefrei,glutenfrei,vegan",
+        "field5": "2,50 €"
+    },
+    {
+        "field1": "2021-01-19",
+        "field2": "Chili sin Carne mit Bohnen und Mais dazu eine backfrische Kaisersemmel (A,F)",
+        "field3": "Wochengerichte, Menüs & Low Carb",
+        "field4": "vegetarisch,laktosefrei,vegan",
+        "field5": "6,20 €"
+    },
+    {
+        "field1": "2021-01-19",
+        "field2": "Bauernschmaus vom Schopfbraten mit Krustenbraten und Frankfurter dazu Speckkraut und Böhmische Knödel (A,G,O)",
+        "field3": "Wochengerichte, Menüs & Low Carb",
+        "field4": "",
+        "field5": "6,70 €"
+    },
+    {
+        "field1": "2021-01-20",
+        "field2": "Gefüllte Krautrouladen in roter Paprikasauce mit Eblyreis (A)",
+        "field3": "Tagesmenü",
+        "field4": "vegetarisch,laktosefrei,vegan",
+        "field5": "6,20 €"
+    },
+    {
+        "field1": "2021-01-20",
+        "field2": "Flaumige Spinatknödel in Gorgonzolasauce und sautiertem Wurzelgemüse (A,C,G,O)",
+        "field3": "Tagesmenü",
+        "field4": "vegetarisch",
+        "field5": "6,60 €"
+    },
+    {
+        "field1": "2021-01-20",
+        "field2": "gratinierte Lasagne 'al forno' Bolognese mit Basilikum-Tomatensauce (A,C,G)",
+        "field3": "Tagesmenü",
+        "field4": "",
+        "field5": "7,20 €"
+    },
+    {
+        "field1": "2021-01-20",
+        "field2": "Big Italy | Basilikum, Banane, Minze, Erdbeere, Apfel [500ml]",
+        "field3": "Säfte & Smoothies",
+        "field4": "vegetarisch,laktosefrei,glutenfrei,vegan",
+        "field5": "4,10 €"
+    },
+    {
+        "field1": "2021-01-20",
+        "field2": "Apfelscheiterhaufen mit Beerensauce (A,C,G,O)",
+        "field3": "Tagesmenü",
+        "field4": "vegetarisch",
+        "field5": "2,50 €"
+    },
+    {
+        "field1": "2021-01-20",
+        "field2": "Gulaschsuppe mit Bohnen, Paprika und Mais",
+        "field3": "Tagesmenü",
+        "field4": "laktosefrei,glutenfrei",
+        "field5": "2,50 €"
+    },
+    {
+        "field1": "2021-01-20",
+        "field2": "Chili sin Carne mit Bohnen und Mais dazu eine backfrische Kaisersemmel (A,F)",
+        "field3": "Wochengerichte, Menüs & Low Carb",
+        "field4": "vegetarisch,laktosefrei,vegan",
+        "field5": "6,20 €"
+    },
+    {
+        "field1": "2021-01-20",
+        "field2": "Bauernschmaus vom Schopfbraten mit Krustenbraten und Frankfurter dazu Speckkraut und Böhmische Knödel (A,G,O)",
+        "field3": "Wochengerichte, Menüs & Low Carb",
+        "field4": "",
+        "field5": "6,70 €"
+    },
+    {
+        "field1": "2021-01-21",
+        "field2": "Kokos Kichererbsencurry mit Chili und Mandelreis (H)",
+        "field3": "Tagesmenü",
+        "field4": "vegetarisch,laktosefrei,glutenfrei,vegan",
+        "field5": "6,30 €"
+    },
+    {
+        "field1": "2021-01-21",
+        "field2": "Tiroler-Gröstl vom Schweinsbraten und gekochtem Rind mit knackigem Gemüse und Spiegelei (C)",
+        "field3": "Tagesmenü",
+        "field4": "laktosefrei,glutenfrei",
+        "field5": "6,80 €"
+    },
+    {
+        "field1": "2021-01-21",
+        "field2": "Linguini mit gebratenen Shrimps in geschmorter Lachs-Tomatenbolognese mit Basilikum und frittiertem Knoblauch (A,C,D,G,R)",
+        "field3": "Tagesmenü",
+        "field4": "",
+        "field5": "8,30 €"
+    },
+    {
+        "field1": "2021-01-21",
+        "field2": "Big Italy | Basilikum, Banane, Minze, Erdbeere, Apfel [500ml]",
+        "field3": "Säfte & Smoothies",
+        "field4": "vegetarisch,laktosefrei,glutenfrei,vegan",
+        "field5": "4,10 €"
+    },
+    {
+        "field1": "2021-01-21",
+        "field2": "Haus`gmachter Topfenstrudel mit Vanillesauce (A,C,G,O)",
+        "field3": "Tagesmenü",
+        "field4": "vegetarisch",
+        "field5": "2,50 €"
+    },
+    {
+        "field1": "2021-01-21",
+        "field2": "Erdäpfelcremesuppe mit Kräuter-Pilzen",
+        "field3": "Tagesmenü",
+        "field4": "vegetarisch,laktosefrei,glutenfrei,vegan",
+        "field5": "2,50 €"
+    },
+    {
+        "field1": "2021-01-21",
+        "field2": "Chili sin Carne mit Bohnen und Mais dazu eine backfrische Kaisersemmel (A,F)",
+        "field3": "Wochengerichte, Menüs & Low Carb",
+        "field4": "vegetarisch,laktosefrei,vegan",
+        "field5": "6,20 €"
+    },
+    {
+        "field1": "2021-01-21",
+        "field2": "Bauernschmaus vom Schopfbraten mit Krustenbraten und Frankfurter dazu Speckkraut und Böhmische Knödel (A,G,O)",
+        "field3": "Wochengerichte, Menüs & Low Carb",
+        "field4": "",
+        "field5": "6,70 €"
+    },
+    {
+        "field1": "2021-01-22",
+        "field2": "Vegane knusprige Hawaii-Tofu-Bowl mit süßem Knoblauch dazu Sesamreis (F,N)",
+        "field3": "Tagesmenü",
+        "field4": "vegetarisch,laktosefrei,glutenfrei,vegan",
+        "field5": "4,90 €"
+    },
+    {
+        "field1": "2021-01-22",
+        "field2": "Gebratene Schupfnudeln auf Apfel-Maronirotkraut mit hausgemachten Röstzwiebel und frischer Kresse (A,G,H,O)",
+        "field3": "Tagesmenü",
+        "field4": "vegetarisch",
+        "field5": "6,90 €"
+    },
+    {
+        "field1": "2021-01-22",
+        "field2": "Köttbular vom gemischten Faschierten in cremiger Bratensauce und zweierlei Püree dazu Preiselbeeren (A,C,G,O)",
+        "field3": "Tagesmenü",
+        "field4": "",
+        "field5": "7,60 €"
+    },
+    {
+        "field1": "2021-01-22",
+        "field2": "Big Italy | Basilikum, Banane, Minze, Erdbeere, Apfel [500ml]",
+        "field3": "Säfte & Smoothies",
+        "field4": "vegetarisch,laktosefrei,glutenfrei,vegan",
+        "field5": "4,10 €"
+    },
+    {
+        "field1": "2021-01-22",
+        "field2": "Topfencreme mit Ananas und Minzzucker (A,C,G,O)",
+        "field3": "Tagesmenü",
+        "field4": "vegetarisch",
+        "field5": "2,50 €"
+    },
+    {
+        "field1": "2021-01-22",
+        "field2": "Kräftige Hühnerbrühe mit Erbsen, Parmesannockerl und Wurzelgemüse (A,C,G,L)",
+        "field3": "Tagesmenü",
+        "field4": "",
+        "field5": "2,50 €"
+    },
+    {
+        "field1": "2021-01-22",
+        "field2": "Chili sin Carne mit Bohnen und Mais dazu eine backfrische Kaisersemmel (A,F)",
+        "field3": "Wochengerichte, Menüs & Low Carb",
+        "field4": "vegetarisch,laktosefrei,vegan",
+        "field5": "6,20 €"
+    },
+    {
+        "field1": "2021-01-22",
+        "field2": "Bauernschmaus vom Schopfbraten mit Krustenbraten und Frankfurter dazu Speckkraut und Böhmische Knödel (A,G,O)",
+        "field3": "Wochengerichte, Menüs & Low Carb",
+        "field4": "",
+        "field5": "6,70 €"
+    }
+]
